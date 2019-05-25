@@ -19,8 +19,8 @@ public class Appearance {
   private final int FRAME_HEIGHT = 300;
   private final int FRAME_WIDTH = 300;
 
-  private final int MIN_SIZE = 20;
-  private final int MAX_SIZE = 100;
+  private final int MIN_SIZE = 2;
+  private final int MAX_SIZE = 10;
 
 
   private Appearance() {
